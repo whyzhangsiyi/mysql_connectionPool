@@ -1,0 +1,22 @@
+[
+{
+  "directory": "/home/ziggy/workspace/mysql_connectionPool/build",
+  "command": "/usr/bin/g++ -I/home/ziggy/workspace/mysql_connectionPool/include -I/home/ziggy/workspace/mysql_connectionPool/mysqlConn/include -g -g -o CMakeFiles/mysqlConnPool.dir/src/MysqlConnection.cpp.o -c /home/ziggy/workspace/mysql_connectionPool/src/MysqlConnection.cpp",
+  "file": "/home/ziggy/workspace/mysql_connectionPool/src/MysqlConnection.cpp"
+},
+{
+  "directory": "/home/ziggy/workspace/mysql_connectionPool/build",
+  "command": "/usr/bin/g++ -I/home/ziggy/workspace/mysql_connectionPool/include -I/home/ziggy/workspace/mysql_connectionPool/mysqlConn/include -g -g -o CMakeFiles/mysqlConnPool.dir/src/connectionPool.cpp.o -c /home/ziggy/workspace/mysql_connectionPool/src/connectionPool.cpp",
+  "file": "/home/ziggy/workspace/mysql_connectionPool/src/connectionPool.cpp"
+},
+{
+  "directory": "/home/ziggy/workspace/mysql_connectionPool/build",
+  "command": "/usr/bin/g++ -I/home/ziggy/workspace/mysql_connectionPool/include -I/home/ziggy/workspace/mysql_connectionPool/mysqlConn/include -g -g -o CMakeFiles/mysqlConnPool.dir/src/threadSafeQueue.cpp.o -c /home/ziggy/workspace/mysql_connectionPool/src/threadSafeQueue.cpp",
+  "file": "/home/ziggy/workspace/mysql_connectionPool/src/threadSafeQueue.cpp"
+},
+{
+  "directory": "/home/ziggy/workspace/mysql_connectionPool/build",
+  "command": "/usr/bin/g++ -I/home/ziggy/workspace/mysql_connectionPool/include -I/home/ziggy/workspace/mysql_connectionPool/mysqlConn/include -g -g -o CMakeFiles/mysqlConnPool.dir/tests/main.cpp.o -c /home/ziggy/workspace/mysql_connectionPool/tests/main.cpp",
+  "file": "/home/ziggy/workspace/mysql_connectionPool/tests/main.cpp"
+}
+]

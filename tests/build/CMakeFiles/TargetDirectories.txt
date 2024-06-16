@@ -1,0 +1,3 @@
+/home/ziggy/workspace/mysql_connectionPool/build/CMakeFiles/mysqlConnPool.dir
+/home/ziggy/workspace/mysql_connectionPool/build/CMakeFiles/edit_cache.dir
+/home/ziggy/workspace/mysql_connectionPool/build/CMakeFiles/rebuild_cache.dir
